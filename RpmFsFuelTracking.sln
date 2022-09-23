@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpmFsRepositories", "RpmFsRepositories\RpmFsRepositories.csproj", "{0965158A-8E7F-40CF-A3A1-8EFD4051BE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpmFsServices", "RpmFsServices\RpmFsServices.csproj", "{432BE4E4-FFFF-4B3A-B280-FD2C5B2D6E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpmFsJobs", "RpmFsJobs\RpmFsJobs.csproj", "{76324D59-F2EB-49B5-98F3-BA0FD13E368F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0965158A-8E7F-40CF-A3A1-8EFD4051BE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0965158A-8E7F-40CF-A3A1-8EFD4051BE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0965158A-8E7F-40CF-A3A1-8EFD4051BE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0965158A-8E7F-40CF-A3A1-8EFD4051BE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432BE4E4-FFFF-4B3A-B280-FD2C5B2D6E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432BE4E4-FFFF-4B3A-B280-FD2C5B2D6E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432BE4E4-FFFF-4B3A-B280-FD2C5B2D6E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432BE4E4-FFFF-4B3A-B280-FD2C5B2D6E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76324D59-F2EB-49B5-98F3-BA0FD13E368F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76324D59-F2EB-49B5-98F3-BA0FD13E368F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76324D59-F2EB-49B5-98F3-BA0FD13E368F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76324D59-F2EB-49B5-98F3-BA0FD13E368F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
